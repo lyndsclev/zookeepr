@@ -108,6 +108,24 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Clevy",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Clevy",
+      "species": "Dog",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
     }
   ]
 }
